@@ -1,3 +1,11 @@
 page-home {
 
 }
+
+.nav{
+  height: 70px;
+  &__header{
+    padding-top: 10px;
+    text-align: center;
+  }
+}
